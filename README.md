@@ -2,7 +2,7 @@
     ──「 𝗔𝗧𝗨𝗟 𝗧𝗜𝗪𝗔𝗥𝗜 𝗫 𝗨𝗦𝗘𝗥𝗕𝗢𝗧 」──
 
 <p align="center">
-<a href="https://github.com/WCGKING/KINGUSERBOT"><img src="https://ibb.co/P1ThVpF" height="270" width="480" alt="Branded-Userbot"/></a>
+<a href="https://github.com/WCGKING/KINGUSERBOT"><img src="https://files.catbox.moe/9zk0mo.jpg" height="270" width="480" alt="Branded-Userbot"/></a>
 </p>
 
 <h2 align="center">
@@ -36,7 +36,7 @@
 </h3>
 
 <p align="center">
-<a href="https://t.me/BRANDED_WORLD"><img src="https://img.shields.io/badge/-Support%20Group-blue.svg?style=for-the-badge&logo=Telegram"></a>
+<a href="https://t.me/ladliupdate"><img src="https://img.shields.io/badge/-Support%20Group-blue.svg?style=for-the-badge&logo=Telegram"></a>
 </p>
 
 <p align="center">
