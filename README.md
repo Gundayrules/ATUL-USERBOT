@@ -2,7 +2,7 @@
     ──「 𝗔𝗧𝗨𝗟 𝗧𝗜𝗪𝗔𝗥𝗜 𝗫 𝗨𝗦𝗘𝗥𝗕𝗢𝗧 」──
 
 <p align="center">
-<a href="https://github.com/WCGKING/KINGUSERBOT"><img src="https://files.catbox.moe/9zk0mo.jpg" height="270" width="480" alt="Branded-Userbot"/></a>
+<a href="https://github.com/WCGKING/KINGUSERBOT"><img src="https://files.catbox.moe/mma03v.jpg" height="270" width="480" alt="Branded-Userbot"/></a>
 </p>
 
 <h2 align="center">
